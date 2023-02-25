@@ -4,8 +4,11 @@ This project was created by Olajumoke Emmanuel
 
 ## Local Development Server
 
-Run
 
+Run
+```
+git clone https://github.com/EmmanuScript/Weather-App.git
+```
 ```
 npm i
 ```

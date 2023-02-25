@@ -9,6 +9,7 @@ Run
 ```
 git clone https://github.com/EmmanuScript/Weather-App.git
 ```
+then cd into the directory, and run
 ```
 npm i
 ```
